@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{409E813A-456A-4949-90D1-BA786AD1063C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyTextFile.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionDemo/Program.cs">
     <Files>
       <File FileName="Week4/Program.cs" Line="48" Column="88" />
-      <File FileName="EmptyTextFile.txt" Line="1" Column="1" />
+      <File FileName="ExceptionDemo/Program.cs" Line="27" Column="65" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Week4" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/tarik/Projects/Week4/EmptyTextFile.txt" selected="True" />
+            <Node name="Solution Items" expanded="True" />
+            <Node name="ExceptionDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="VirtualDemo" expanded="True" />
           </Node>
@@ -17,6 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExceptionDemo FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.VirtualDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />

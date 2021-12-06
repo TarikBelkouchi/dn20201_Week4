@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		EmptyTextFile.txt = EmptyTextFile.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{61420003-E099-4F1C-A168-A85D2946FAF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -20,6 +22,10 @@ Global
 		{409E813A-456A-4949-90D1-BA786AD1063C}.Debug|anycpu.Build.0 = Debug|anycpu
 		{409E813A-456A-4949-90D1-BA786AD1063C}.Release|anycpu.ActiveCfg = Release|anycpu
 		{409E813A-456A-4949-90D1-BA786AD1063C}.Release|anycpu.Build.0 = Release|anycpu
+		{61420003-E099-4F1C-A168-A85D2946FAF9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{61420003-E099-4F1C-A168-A85D2946FAF9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{61420003-E099-4F1C-A168-A85D2946FAF9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{61420003-E099-4F1C-A168-A85D2946FAF9}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
