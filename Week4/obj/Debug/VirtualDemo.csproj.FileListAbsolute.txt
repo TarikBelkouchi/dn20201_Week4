@@ -1,0 +1,5 @@
+/Users/tarik/Projects/Week4/Week4/bin/Debug/Week4.exe
+/Users/tarik/Projects/Week4/Week4/bin/Debug/Week4.pdb
+/Users/tarik/Projects/Week4/Week4/obj/Debug/VirtualDemo.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Week4/Week4/obj/Debug/Week4.exe
+/Users/tarik/Projects/Week4/Week4/obj/Debug/Week4.pdb
